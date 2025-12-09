@@ -1,4 +1,7 @@
+
 import Plants from '../../components/Home/Plants'
+
+
 
 const Home = () => {
   return (
